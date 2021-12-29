@@ -1,0 +1,6 @@
+setup.py
+tfutils.egg-info/PKG-INFO
+tfutils.egg-info/SOURCES.txt
+tfutils.egg-info/dependency_links.txt
+tfutils.egg-info/requires.txt
+tfutils.egg-info/top_level.txt
